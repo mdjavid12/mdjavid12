@@ -12,7 +12,7 @@ I see software development not just as writing code, but as the **craft of solvi
 - 🔭 **Ex SDE Intern @ Athen Technology Solution** – built REST APIs, system architectures, and collaborated with QA teams.  
 - 🎯 Looking for roles: **Software Engineer | Backend Developer | Java Developer**  
 - 🌱 Currently strengthening: **Spring Boot, DSA problem solving, System Design**  
-- 📫 Reach me: **mohmmedjavid12@gmail.com** <br><br>
+- 📫 Reach me: **mohmmedjavid12@gmail.com** 
 
 
 <p align="left">
@@ -25,12 +25,12 @@ I see software development not just as writing code, but as the **craft of solvi
   <a href="https://www.geeksforgeeks.org/user/mohmmedjx6rm/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks" />
   </a>
-</p>
+</p> <br>
 
 ---
 
-### 🛠️ Tech Stack & Tools  
 
+### 🛠️ Tech Stack & Tools  
 **Core Skills**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-FFA116?style=for-the-badge&logo=codeforces&logoColor=white)
