@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Mohmmed Javid</h1>
-<h3 align="center">Passionate Software Engineer | Backend Developement | Java Enthusiast</h3>
+<h3 align="center"> Software Engineer | Backend Developement | 0-1 YEO </h3>
 
 ---
 
