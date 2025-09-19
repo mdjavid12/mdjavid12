@@ -122,7 +122,7 @@ I see software development not just as writing code, but as the **craft of solvi
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdjavid12&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdjavid12&theme=tokyonight" alt="streak"/>
 </p>
 
 ---
